@@ -1,2 +1,4 @@
-# pokemon-image-displayer
-this is a mini project where it shows the image of any pokemon character you enter. Used poke.co api for this.
+# currency-exchange-rate-app
+this is a project where HTML, CSS and JS were used along with currency api 
+<br> <br>
+The API I used is : https://github.com/fawazahmed0/exchange-api
